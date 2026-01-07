@@ -1,5 +1,7 @@
 import { ZapIcon } from "lucide-react";
+// maxiimum change the file name
 
+const u;
 const RateLimitedUI = () => {
     return (
         <div className="max-w-6xl mx-auto px-4 py-8">
